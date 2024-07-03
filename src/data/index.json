@@ -1,0 +1,71 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "title": "Front-End",
+      "description": "Proficient in HTML, CSS, and JavaScript, they adeptly structure and style web content, ensuring seamless user experiences across devices. Their expertise extends to modern frameworks like React.js and Tailwind"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "A backend developer specializing in Node.js and Express brings essential skills to server-side development, ensuring robust and scalable web applications.handling data persistence with databases like MongoDB "
+    },
+    {
+      "id": "4",
+      "src": "./img/product-chain-1.png",
+      "title": "Artificial Intelligence",
+      "description": "AI refers to the simulation of human intelligence by machines, enabling them to learn and solve problems autonomously. It encompasses a range of technologies that empower systems to perceive their environment, understand context."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Online Food Service",
+      "description": "Delivering delicious meals to your doorstep with just a few clicks",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Expense tracer",
+      "description": "Track and manage your expenses effortlessly for a smarter financial future",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Find PG",
+      "description": "Find and book the perfect PG accommodation with ease and convenience.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Great communication and delivered high-quality work. Would hire again!",
+      "author_name": "Fenny Savaliya",
+      "author_designation": "Front-end Developer"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Exceptional skills and attention to detail. Completed the project ahead of schedule.",
+      "author_name": "Dev Shah",
+      "author_designation": "Full Stack Developer"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Solid performance overall, but could improve on meeting deadlines consistently.",
+      "author_name": "Priyanka Mehta",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
